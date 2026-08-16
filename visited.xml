@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user username="juliet">
+    <visited>
+      <place country="GB">
+        <city name="London">
+          <date>1985-06</date>
+        </city>
+        <city name="Manchester"/>
+        <city name="Newcastle"/>
+        <city name="Sailsbury"/>
+        <city name="Southampton"/>
+      </place>
+      <place country="FR">
+        <city name="Paris"/>
+      </place>
+      <place country="CH">
+        <city name="Zuerich"/>
+        <city name="Bern"/>
+      </place>
+      <place country="Italy">
+        <city name="Milan"/>
+        <city name="Rome"/>
+      </place>
+      <place country="VA">
+        <city name="Vatican City"/>
+      </place>
+      <place country="Hungary">
+        <city name="Budapest"/>
+      </place>
+      <place country="AE">
+        <city name="Dubai"/>
+        <city name="Abu Dhabi"/>
+        <city name="Fujirah"/>
+      </place>
+      <place country="OM">
+        <city name="Muscat"/>
+        <city name="Sohar"/>
+        <city name="Sur"/>
+        <city name="Nizwa"/>
+      </place>
+      <place country="IR">
+        <city name="Qeshm"/>
+      </place>
+      <place country="Malaysia">
+        <city name="Kuala Lumpur"/>
+        <city name="Langkawi"/>
+      </place>
+      <place country="SG">
+        <city name="Singapore"/>
+      </place>
+      <place country="HK">
+        <city name="Hong Kong"/>
+      </place>
+      <place country="ID">
+        <city name="Bali"/>
+      </place>
+      <place country="TW">
+        <city name="Taipei"/>
+      </place>
+      <place country="JP">
+        <city name="Tokyo"/>
+      </place>
+      <place country="US">
+        <city name="New York"/>
+        <city name="Las Vegas"/>
+        <city name="Los Angeles"/>
+        <city name="Washington"/>
+        <city name="Las Vegas"/>
+        <city name="Denver"/>
+        <city name="Colorado Springs"/>
+      </place>
+      <place country="CA">
+        <city name="Vancouver"/>
+      </place>
+      <place country="KR">
+        <city name="Seoul"/>
+      </place>
+      <place country="SC">
+        <city name="Victoria"/>
+      </place>
+    </visited>
+  </user>
+  <user username="tim">
+    <visited>
+      <place country="FR">
+        <city name="Rennes"/>
+        <city name="Nantes"/>
+        <city name="Bordeaux"/>
+        <city name="Lyon"/>
+        <city name="Nice"/>
+        <city name="Chernourg"/>
+      </place>
+      <place country="US">
+        <city name="Boston"/>
+        <city name="Miami"/>
+        <city name="Houston"/>
+        <city name="New Orleans"/>
+        <city name="Salem"/>
+        <city name="New York"/>
+        <city name="Washington"/>
+        <city name="Las Vegas"/>
+        <city name="Denver"/>
+        <city name="Colorado Springs"/>
+      </place>
+      <place country="SA">
+	      <city name="Riyadh"/>
+	      <city name="Al Jubayl"/>
+	      <city name="Hafar Al-Batin"/>
+      </place>
+      <place country="BH">
+	      <city name="Manama"/>
+      </place>
+      <place country="QA">
+        <date>1992</date>
+      </place>
+      <place country="KW">
+        <date>1992</date>
+      </place>
+      <place country="ES">
+        <date>1992</date>
+        <city name="Malaga"/>
+        <city name="Bilbao"/>
+      </place>
+      <place country="GB">
+        <city name="Blackpool"/>
+        <city name="Plymouth"/>
+        <city name="Belfast"/>
+        <city name="Hartlepool"/>
+        <city name="Portsmouth"/>
+        <city name="London"/>
+      </place>
+      <place country="NL">
+        <city name="Amsterdam"/>
+        <city name="The Hague"/>
+        <city name="Groningen"/>
+      </place>
+      <place country="CZ">
+        <city name="Prague"/>
+      </place>
+      <place country="DE">
+        <city name="Augsburg"/>
+        <city name="Munich"/>
+      </place>
+      <place country="AT">
+        <city name="Salzburg"/>
+        <city name="Vienna"/>
+      </place>
+      <place country="CH">
+        <city name="Zuerich"/>
+        <city name="Bern"/>
+      </place>
+      <place country="IT">
+        <city name="Milan"/>
+        <city name="Bologna"/>
+        <city name="Rome"/>
+      </place>
+      <place country="VA">
+        <city name="Vatican City"/>
+      </place>
+      <place country="BE">
+        <city name="Brussels"/>
+      </place>
+      <place country="EG">
+        <city name="Cairo"/>
+        <city name="Luxor"/>
+        <city name="Hurghada"/>
+      </place>
+      <place country="BR">
+        <city name="Foz do Iguacu"/>
+      </place>
+      <place country="AR">
+        <city name="Buenos Aires"/>
+        <city name="Comodoro Rivadavia"/>
+      </place>
+      <place country="GI">
+        <city name="Gibraltar"/>
+      </place>
+      <place country="MA">
+        <city name="Aousserd"/>
+      </place>
+      <place country="KE">
+        <city name="Nairobi"/>
+        <city name="Mombasa"/>
+      </place>
+      <place country="TZ">
+        <city name="Wete"/>
+        <city name="Tanga"/>
+      </place>
+      <place country="ZA">
+        <city name="Cape Town"/>
+        <city name="Johannesburg"/>
+        <city name="Ladysmith"/>
+        <city name="Saldanha"/>
+        <city name="Mossel Bay"/>
+      </place>
+      <place country="OM">
+        <city name="Muscat"/>
+        <city name="Salalah"/>
+        <city name="Nizwa"/>
+      </place>
+      <place country="AE">
+        <city name="Dubai"/>
+        <city name="Abu Dhabi"/>
+      </place>
+      <place country="IN">
+        <city name="Mumbai"/>
+      </place>
+      <place country="LK">
+        <city name="Colombo"/>
+        <city name="Galle"/>
+        <city name="Kandy"/>
+        <city name="Ampara"/>
+      </place>
+      <place country="MM">
+        <city name="Bokpyin"/>
+      </place>
+      <place country="NP">
+        <city name="Kathmandu"/>
+      </place>
+      <place country="TH">
+        <city name="Bangkok"/>
+        <city name="Ko Samui"/>
+        <city name="Ko Pha Ngan"/>
+        <city name="Koh Tao"/>
+        <city name="Phuket"/>
+      </place>
+      <place country="SG">
+        <city name="Singapore City"/>
+      </place>
+      <place country="KH">
+        <city name="Phnom Penh"/>
+        <city name="Siem Reap"/>
+      </place>
+      <place country="VN">
+        <city name="Da Nang"/>
+      </place>
+        <place country="KR">
+          <city name="Seoul"/>
+        </place>
+        <place country="JP">
+          <city name="Tokyo"/>
+        </place>
+        <place country="HK">
+          <city name="Hong Kong"/>
+        </place>
+        <place country="MO">
+          <city name="Macau"/>
+        </place>
+        <place country="TW">
+          <city name="Taipei"/>
+        </place>
+        <place country="PH">
+          <city name="Aparri"/>
+          <city name="Manila"/>
+          <city name="Bagio"/>
+          <city name="Bohol"/>
+          <city name="Cebu"/>
+          <city name="Dumaguete"/>
+        </place>
+        <place country="SC">
+          <city name="Victoria"/>
+        </place>
+    </visited>
+  </user>
+</users>
